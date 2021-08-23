@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>cheeserts</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+  <center>
+    <h1>cheesserts</h1>
+
+    <h2>
+      </h>
+      <p><em> <strong>cheese is the new chocolate</strong></em>
+    </h2>
+    <br>
+    <hr size="2" no shade>
+    <br>
+    <br>
+
+    what could be more perfect than a classic baked <strong>cheesecake</strong>?
+    <br>
+    or yeast pastry stuffed with ricotta?
+    <br>
+    maybe brownies with cream cheese?
+    <br>
+    if we share the same love for cheesecakes you're in the right place!
+    <br>
+    <br>
+    <br>
+    <strong>scroll down and let's get started! </strong>
+    <br>
+    <br>
+    <img src="index.jpeg" alt="">
+    <br>
+    <br>
+    <h3>recipes</h3>
+    <br>
+    <hr>
+  </center>
+  <ol>
+    <table cellspacing="100">
+      <tr>
+        <td>  <a href="basics.html">basics</a></td>
+        <td><a href="easy&quick.html">easy & quick</a></td>
+        <td><a href="birthdaycakes.html">birthday cakes</a></td>
+        <td><a href="special.html">special</a></td>
+      </tr>
+    </table>
+    </p>
+    <center>  <a href="contact us.html">contact us</a></center>
+
+</body>
+
+</html>
