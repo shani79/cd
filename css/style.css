@@ -32,4 +32,42 @@ h3{
 
 p1{
   font-size: 25px;
+
+}
+
+img:hover{
+  background-color: white;
+}
+
+
+
+.piece{
+  background-color: pink;
+
+}
+
+.round{
+  background-color: yellow;
+}
+
+.in{
+text-decoration: underline;
+  text-align: center;
+}
+
+.recpie{
+text-indent: 25px;
+text-align:center;
+text-transform: uppercase;
+}
+
+.me{
+  text-decoration: underline;
+  text-align: center;
+}
+
+.method{
+
+text-transform: capitalize;
+
 }
